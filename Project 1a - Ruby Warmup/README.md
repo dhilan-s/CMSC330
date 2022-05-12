@@ -1,18 +1,18 @@
-FAILED TESTS
-\n test_semi_public_phonebook_lookup
-
-PASSED TESTS
-test_public_ispalindrome
-test_public_names_by_ac
-test_public_phonebook_add
-test_public_fib
-test_public_phonebook_lookup_by_num
-test_public_ziphash
-test_public_freq
-test_public_phonebook_lookup
-test_public_nthmax
-test_public_hashtoarray
-test_semi_public_phonebook_lookup_by_num
-test_semi_public_warmup
-test_semi_public_phonebook_add
-test_semi_public_phonebook_add_invalid
+FAILED TESTS  
+test_semi_public_phonebook_lookup  
+    
+PASSED TESTS  
+test_public_ispalindrome  
+test_public_names_by_ac  
+test_public_phonebook_add  
+test_public_fib  
+test_public_phonebook_lookup_by_num  
+test_public_ziphash  
+test_public_freq  
+test_public_phonebook_lookup  
+test_public_nthmax  
+test_public_hashtoarray  
+test_semi_public_phonebook_lookup_by_num  
+test_semi_public_warmup  
+test_semi_public_phonebook_add  
+test_semi_public_phonebook_add_invalid  
