@@ -1,5 +1,5 @@
 FAILED TESTS
-test_semi_public_phonebook_lookup
+\n test_semi_public_phonebook_lookup
 
 PASSED TESTS
 test_public_ispalindrome
